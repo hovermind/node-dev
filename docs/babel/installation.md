@@ -1,3 +1,11 @@
+Courtesy: https://hackernoon.com/using-babel-7-with-node-7e401bc28b04
+
+## Components of babel
+* @babel/cli
+* @babel/core
+* @babel/node
+* @babel/preset-env
+
 ## Basic installation
 ```json
 {
